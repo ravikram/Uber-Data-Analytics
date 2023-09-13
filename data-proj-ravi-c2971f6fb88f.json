@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "data-proj-ravi",
+  "private_key_id": "c2971f6fb88fb70a5f913fdd2a095baeb1746821",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDS+sA5dCq5zy05\nsJCiyvm88aiBbkQDDmwlv73pnv6JLJ+HB5H1slIYzMuR2J7Lq/ZxPY6eTxMLLZ/T\nyR3FpWb3oQQfOoqU2OAVAAI5HuqEplgLzeCRb3gk94NK3s/aukGE3Z9/mnWsRz1K\nPFwkIorO0F+hGXRSpw1YlZ3uN4xcgYACgMl6c3N4iHPrvmFxgmzE1fKPhS7tGDBW\nZgLxggkqn84jefGrCmU0+GLgUkXPVwo1VmmtTcbf99NfnIPVfbZcktubgXQGezY+\n6jsSM2eyLgQgjM4vHhGTIgLyA6REvQPhkJzOTNM4cpALBQlbTmROogW1QEoifjzl\nvimxZvTDAgMBAAECggEAAzHi4nKzwBMkpy5G4CTKcMp2UzUmZjly+PI5qQEDOOH8\niQVb5cPfqz8LP9gBfnM3w7ryMTmFCQVMkHEsgYdGZXeUmNPlHjJ8RaLaQTHBXxwC\n5QdwFv8k/Z2/DakNQHJBUk/l/bX4pn6AiPTTChdUY6Puujg7LEk+dqMXqiccVSrT\nhG52n8iqOMgpg8CntrugvYO0NEBseFF7aTAtJxaxOiwktzHn7YMUuXdJuB/yN01y\ncscKH2ObpFvRm3X6cZvjf2csJIdQ44+AWD+SzVQn1C47KHwFm+B+z8Pl7uU0DaWr\n52SPmI+IgDS6uMk5odoSLGNHeF+b79x7yxzJ0E5bcQKBgQD60chHn9Uu4zTx6nIq\nu/dstuy+KpbA3xBNPz+oIlRpNbDfyy0viisPgKSV2lTsXG8xLglAnhpblSKPzFV0\nqHYZHB4pp3A7OsSk3jN27S+JoQuOjjM8+Mc22qjyXCANOoK4bzmH3sRu/vTJjApC\nvuvqfI3LI8HkoYcrf/6kSBgQuQKBgQDXVlArVs2n9tgOWoFz7Z1p9m7lnpZ3TA/9\nhgdZahBSKd2RBqnGJdhPHU+gN6PJ45uFZNABVaeZu4NtjK19wo6Id3K2O0EqyZ9g\nZPkMEKXSQwO/ycNqGmqmU2SwynB7g68dqWwW5OxjQpIirGSc6cYAnJpTyjkTDv0g\ndoMt3gGbWwKBgETqVSRQ50tdxFNf/oR9Zwto632IyCkwYRNIeJ4i6JyL0xB6i+zP\nAuvchdxixAi5kRerNYGar1VQkdF+7FAEZYaasjLxvaWYjSVbpDpeCzy+kiVWLv/m\nvx30UI1fALOByx8P+He7nq98wBeMsdkLCllAZdlV9tVyCGjMX1QWNv6JAoGAXxiB\nAwKsg7ahJ4WUkaunzrnDs6fbbweqMB3WdQg/+OkALiGxLA5efmHFXk30CR54+enR\naiV3hI6oteJgY59d7qpBgHSejNTJi3pL+aYIdNifeT0TDXJpEtbVKrXcAs/er8y4\nLUwfkJ4/hwx2ykz64h5GkSZHGkGOS53KxKC8OO0CgYAdW4QkhEeWknBxFH4qok+d\nLDRxTtVfS9T59b3lop6PhzJaqSYBvMPtQOM9VVPFQIerGIkCqCdWdyrmMnffj5hB\nQOerzBwijxtT6/5P6M+h5ABVGvQ0nMnjH4uJsUGqNCZMFf6uDR2U/2xrWebw1lU2\nHmcLOqUU3/ASqPIKkzIzZQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "uber-data-proj-ravi@data-proj-ravi.iam.gserviceaccount.com",
+  "client_id": "108523193048046191557",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/uber-data-proj-ravi%40data-proj-ravi.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
